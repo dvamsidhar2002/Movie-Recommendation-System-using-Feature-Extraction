@@ -1,4 +1,4 @@
-# Movie-Recommendation-System-using-Feature-Extraction
+# MOVIE RECOMMENDATION SYSTEM USING FEATURE EXTRACTION
 This is a movie recommendation system built using FEATURE EXTRACTION.
 
 # HOW DOES IT WORK?
